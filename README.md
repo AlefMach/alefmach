@@ -40,6 +40,7 @@ My approach is simple:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazons3&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
 
 ### Architecture & Concepts
 
