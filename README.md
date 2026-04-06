@@ -1,80 +1,77 @@
-# 👋 Olá, eu sou o Alef
+# Alef Machado
 
-💻 Backend Engineer focado em sistemas distribuídos
-⚙️ Interesso-me por arquitetura, escalabilidade e decisões técnicas bem fundamentadas
-💳 Construindo soluções para cenários críticos (especialmente pagamentos e sistemas financeiros)
+Backend Engineer focused on building reliable, scalable systems.
 
 ---
 
-## 🧠 Mentalidade de Engenharia
+## 🧠 Engineering Mindset
 
-Gosto de trabalhar com problemas onde:
+I like solving problems where:
 
-* falhas não são aceitáveis
-* consistência importa mais que conveniência
-* decisões técnicas têm impacto real no negócio
+* failure is not an option
+* consistency matters more than convenience
+* technical decisions have real impact
 
-Tenho uma abordagem pragmática:
+My approach is simple:
 
-* prefiro simplicidade que escala
-* evito complexidade desnecessária
-* sempre penso em trade-offs
-
----
-
-## ⚙️ Stack
-
-### 🧩 Backend
-
-* Elixir
-* Kotlin
-* Java (Spring)
-
-### ☁️ Infraestrutura
-
-* Kubernetes
-* Google Cloud Platform
-
-### 🏗️ Arquitetura
-
-* Microsserviços
-* Sistemas distribuídos
-* Alta disponibilidade
-* Integrações externas (APIs / pagamentos)
+* prefer systems that scale through simplicity
+* avoid accidental complexity
+* always think in trade-offs
 
 ---
 
-## 🧪 Interesses atuais
+## ⚙️ Tech Stack
 
-* Observabilidade (logs, métricas, tracing)
-* Resiliência de sistemas
-* Design de APIs robustas
-* Event-driven architecture
+### Backend
+
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat\&logo=elixir\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+
+### Infrastructure
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
+
+---
+
+## 🏗️ Architecture & Concepts
+
+* Distributed Systems
+* Microservices
+* High Availability
+* Event-Driven Systems
+* API Design
+* Observability
 
 ---
 
 ## 📊 GitHub Stats
 
-![Alef's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## 📌 Filosofia
+## 🐍 Contribution Graph
 
-> "Software bom não é o mais complexo —
-> é o que continua funcionando quando tudo dá errado."
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Philosophy
+
+> Good systems are predictable, observable and resilient.
+> Complexity should always be intentional.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-📧 [alef_mac@hotmail.com](mailto:alef_mac@hotmail.com)
-🔗 linkedin.com/in/alef-machado
-
----
+* Email: [alef_mac@hotmail.com](mailto:alef_mac@hotmail.com)
+* LinkedIn: https://linkedin.com/in/alef-machado
