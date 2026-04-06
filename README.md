@@ -28,9 +28,12 @@ My approach is simple:
 
 ### Backend
 
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat\&logo=elixir\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Infrastructure
 
