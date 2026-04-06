@@ -4,6 +4,10 @@
 
 # Alef Machado
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B8BBE&size=22&duration=3000&lines=Distributed+Systems;Event-Driven+Architecture;Reliable+Backend+Engineering" />
+</p>
+
 **Backend Engineer** focused on building **reliable, scalable and resilient systems**.
 
 ---
@@ -64,6 +68,10 @@ I’m driven by problems where:
 ![Snake](https://raw.githubusercontent.com/AlefMach/alefmach/output/github-contribution-grid-snake-dark.svg)
 
 ---
+
+## 📈 Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alefmach&theme=github-dark&hide_border=true)
 
 ## 📌 Philosophy
 
