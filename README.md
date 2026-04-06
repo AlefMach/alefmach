@@ -58,7 +58,7 @@ My approach is simple:
 
 ## 🐍 Contribution Graph
 
-![Snake](https://raw.githubusercontent.com/alefmach/alefmach/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/AlefMach/alefmach/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
