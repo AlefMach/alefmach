@@ -50,15 +50,9 @@ My approach is simple:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alefmach\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
----
-
-## 🔥 Streak
-
-![Streak](https://streak-stats.demolab.com?user=alefmach\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=alefmach\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true)
 
 ---
 
