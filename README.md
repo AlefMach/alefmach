@@ -4,7 +4,7 @@
 
 # Alef Machado
 
-Backend Engineer focused on building reliable, scalable systems.
+Backend Engineer building reliable, scalable systems.
 
 ---
 
@@ -50,27 +50,16 @@ My approach is simple:
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alefmach\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🔥 Streak
-
-![Streak](https://streak-stats.demolab.com?user=alefmach&theme=tokyonight&hide_border=true)
-
----
-
 ## 🐍 Contribution Graph
 
 ![Snake](https://raw.githubusercontent.com/alefmach/alefmach/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## 📌 Philosophy
 
 > Good systems are predictable, observable and resilient.
-> Complexity should always be intentional.
+> Complexity must be a conscious decision — never an accident.
 
 ---
 
