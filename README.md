@@ -48,13 +48,13 @@ My approach is simple:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=alefmach\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 🔥 Streak
 
-![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME\&theme=tokyonight\&hide_border=true)
+![Snake](https://github.com/alefmach/alefmach/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
