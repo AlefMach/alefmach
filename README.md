@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=alefmach&color=blue" />
+</p>
+
 # Alef Machado
 
 Backend Engineer focused on building reliable, scalable systems.
@@ -54,13 +58,13 @@ My approach is simple:
 
 ## 🔥 Streak
 
-![Snake](https://github.com/alefmach/alefmach/blob/output/github-contribution-grid-snake.svg)
+![Streak](https://streak-stats.demolab.com?user=alefmach&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/alefmach/alefmach/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
