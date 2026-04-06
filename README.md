@@ -37,19 +37,19 @@ My approach is simple:
 
 ### Infrastructure
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
----
+### Architecture & Concepts
 
-## 🏗️ Architecture & Concepts
-
-* Distributed Systems
 * Microservices
+* Distributed Systems
 * High Availability
 * Event-Driven Systems
 * API Design
 * Observability
+* Artificial Intelligence
 
 ## 🐍 Contribution Graph
 
