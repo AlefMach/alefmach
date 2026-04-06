@@ -4,45 +4,50 @@
 
 # Alef Machado
 
-Backend Engineer building reliable, scalable systems.
+**Backend Engineer** focused on building **reliable, scalable and resilient systems**.
 
 ---
 
 ## 🧠 Engineering Mindset
 
-I like solving problems where:
+I’m driven by problems where:
 
 * failure is not an option
 * consistency matters more than convenience
-* technical decisions have real impact
+* technical decisions have real-world impact
 
-My approach is simple:
+### Approach
 
-* prefer systems that scale through simplicity
-* avoid accidental complexity
-* always think in trade-offs
+* design systems that scale through simplicity
+* eliminate accidental complexity
+* think in trade-offs, always
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Backend
+### 🧩 Backend
 
-![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat\&logo=elixir\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
 
-### Infrastructure
+### 🎨 Frontend
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 
-### Architecture & Concepts
+### ☁️ Infrastructure
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-S3-569A31?style=flat\&logo=amazons3\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat\&logo=apachekafka\&logoColor=white)
+
+---
+
+## 🏗️ Architecture & Concepts
 
 * Microservices
 * Distributed Systems
@@ -50,7 +55,9 @@ My approach is simple:
 * Event-Driven Systems
 * API Design
 * Observability
-* Artificial Intelligence
+* AI Systems
+
+---
 
 ## 🐍 Contribution Graph
 
@@ -60,7 +67,7 @@ My approach is simple:
 
 ## 📌 Philosophy
 
-> Good systems are predictable, observable and resilient.
+> **Good systems are predictable, observable and resilient.**
 > Complexity must be a conscious decision — never an accident.
 
 ---
