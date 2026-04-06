@@ -48,14 +48,6 @@ My approach is simple:
 * API Design
 * Observability
 
----
-
-## 📊 GitHub Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AlefMach&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
----
-
 ## 🐍 Contribution Graph
 
 ![Snake](https://raw.githubusercontent.com/AlefMach/alefmach/output/github-contribution-grid-snake-dark.svg)
