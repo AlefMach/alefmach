@@ -1,86 +1,93 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alefmach&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=alefmach&color=blue" alt="Profile views" />
 </p>
 
 # Alef Machado
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4B8BBE&size=22&duration=3000&lines=Distributed+Systems;Event-Driven+Architecture;Reliable+Backend+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B8BBE&size=22&duration=3000&lines=Distributed+Systems;Event-Driven+Architecture;Reliable+Backend+Engineering" alt="Areas of expertise" />
 </p>
 
-**Backend Engineer** focused on building **reliable, scalable and resilient systems**.
+Backend Engineer focused on designing and building reliable, scalable, and resilient software systems.
+
+My work is centered on backend engineering, distributed systems, event-driven architectures, and infrastructure capable of supporting business-critical applications.
 
 ---
 
-## 🧠 Engineering Mindset
+## Engineering Principles
 
-I’m driven by problems where:
+I value engineering decisions that improve system reliability, maintainability, and operational clarity.
 
-* failure is not an option
-* consistency matters more than convenience
-* technical decisions have real-world impact
+My approach is based on:
 
-### Approach
-
-* design systems that scale through simplicity
-* eliminate accidental complexity
-* think in trade-offs, always
+* designing systems that scale through simplicity
+* reducing accidental complexity
+* evaluating technical decisions through explicit trade-offs
+* building predictable and observable software
+* treating resilience as an architectural requirement
+* prioritizing long-term maintainability over short-term convenience
 
 ---
 
-## ⚙️ Tech Stack
+## Technical Stack
 
-### 🧩 Backend
+### Backend
 
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat\&logo=elixir\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat\&logo=php\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 
-### ☁️ Infrastructure
+### Infrastructure and Messaging
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-S3-569A31?style=flat\&logo=amazons3\&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat\&logo=amazons3\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat\&logo=apachekafka\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat\&logo=apachekafka\&logoColor=white)
 
 ---
 
-## 🏗️ Architecture & Concepts
+## Architecture and Engineering Areas
 
+* Distributed systems
+* Event-driven architecture
 * Microservices
-* Distributed Systems
-* High Availability
-* Event-Driven Systems
-* API Design
+* High availability
+* API design
 * Observability
-* AI Systems
+* Fault tolerance
+* Asynchronous processing
+* Cloud infrastructure
+* AI-enabled systems
 
 ---
 
-## 🐍 Contribution Graph
+## GitHub Contributions
 
-![Snake](https://raw.githubusercontent.com/AlefMach/alefmach/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 📈 Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alefmach&theme=github-dark&hide_border=true)
-
-## 📌 Philosophy
-
-> **Good systems are predictable, observable and resilient.**
-> Complexity must be a conscious decision — never an accident.
+![GitHub contribution graph](https://raw.githubusercontent.com/AlefMach/alefmach/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 📫 Contact
+## Development Activity
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alefmach\&theme=github-dark\&hide_border=true)
+
+---
+
+## Engineering Philosophy
+
+> Good systems are predictable, observable, and resilient.
+> Complexity should always be a conscious decision, never an accidental outcome.
+
+---
+
+## Contact
 
 * Email: [alef_mac@hotmail.com](mailto:alef_mac@hotmail.com)
-* LinkedIn: https://linkedin.com/in/alef-machado
+* LinkedIn: [linkedin.com/in/alef-machado](https://linkedin.com/in/alef-machado)
